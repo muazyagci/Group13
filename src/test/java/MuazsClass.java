@@ -5,6 +5,7 @@ public class MuazsClass {
         System.out.println("Hello");
         System.out.println("How are you?");
         System.out.println("I'm good");
+        System.out.println("Hello");
     }
 
 }
