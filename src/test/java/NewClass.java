@@ -3,5 +3,7 @@ public class NewClass {
 
         System.out.println("bhbj");
         System.out.println("nkfnkd");
+        System.out.println("nkfnkd");
+
     }
 }
